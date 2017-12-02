@@ -7,8 +7,7 @@ I will always try to choose best language to write such snippet.
 
 - `./day<n>` - Day in calendar
     + `input` - input for tasks
-    + `a.<ext>` - solution for first subtask
-    + `b.<ext>` - solution for second subtask
+    + `solution.<ext>` - solution
 
 # License
 
